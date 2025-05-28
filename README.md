@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 ¡Hola! 👋 Soy Fernando, un apasionado de la tecnología con 5 años de experiencia en el sector y actualmente cursando Ingeniería Informática en la UNED. Además, cuento con un Máster en IA y Data Science. Aquí encontrarás en qué ando trabajando, con quién me gustaría colaborar y mucho más. ¡Conectemos!<br><br>🔭 Actualmente estoy trabajando en<br><br>Automatizaciones basadas en inteligencia artificial para optimizar flujos de trabajo.<br><br>👯 Busco colaborar en<br><br>Proyectos open source de IA y Data Science.<br><br>Iniciativas de desarrollo de aplicaciones móviles o web con enfoque en machine learning.<br><br>🤝 Busco ayuda con<br><br>Definir y diseñar la arquitectura de una nueva app que tengo en mente.<br><br>Buenas prácticas en despliegue y escalado de modelos de IA.<br><br>🌱 Actualmente aprendiendo<br><br>Frameworks de frontend (React) para integrar modelos de IA en el cliente.<br><br>Orquestación con Kubernetes y Docker para servicios de machine learning.<br><br>💬 Pregúntame sobre<br><br>Automatizaciones con Python y librerías de IA (TensorFlow, PyTorch).<br><br>Estrategias de Data Science y análisis de datos.<br><br>Experiencias de estudio en la UNED y formación continua.<br><br>⚡ Dato curioso<br><br>¡Soy un auténtico gymrat! Me encanta el gimnasio y entrenar todos los días.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fCXcf39A) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@feer_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-catala-ortiz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f.catalaortiz98@gmail.com) 
 
 # 💻 Tech Stack:
